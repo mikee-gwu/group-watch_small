@@ -1,0 +1,20 @@
+[
+  {
+    "Title": "Swiss Family Robinson",
+    "Movie_Link": "https://www.imdb.com/title/tt0054357/?ref_=sr_t_1",
+    "Year": "1960",
+    "Rating": "7.1",
+    "genres": "['Survival', 'Adventure', 'Family']",
+    "countries_origin": "['United States']",
+    "Languages": "['English', 'Malay']"
+  },
+  {
+    "Title": "Psycho",
+    "Movie_Link": "https://www.imdb.com/title/tt0054215/?ref_=sr_t_2",
+    "Year": "1960",
+    "Rating": "8.5",
+    "genres": "['Psychological Horror', 'Psychological Thriller', 'Slasher Horror', 'Suspense Mystery', 'Horror', 'Mystery', 'Thriller']",
+    "countries_origin": "['United States']",
+    "Languages": "['English']"
+  }
+]
